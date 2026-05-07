@@ -1,0 +1,4 @@
+google-generativeai
+numpy
+torch
+transformers

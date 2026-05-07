@@ -1,0 +1,163 @@
+[
+    {
+        "iteration": 1,
+        "accuracy": 69.91,
+        "sampled_examples_ids": [
+            44
+        ]
+    },
+    {
+        "iteration": 2,
+        "accuracy": 65.49,
+        "sampled_examples_ids": [
+            2
+        ]
+    },
+    {
+        "iteration": 3,
+        "accuracy": 64.6,
+        "sampled_examples_ids": [
+            31,
+            47
+        ]
+    },
+    {
+        "iteration": 4,
+        "accuracy": 71.68,
+        "sampled_examples_ids": [
+            43,
+            17,
+            35
+        ]
+    },
+    {
+        "iteration": 5,
+        "accuracy": 67.26,
+        "sampled_examples_ids": [
+            9,
+            46,
+            47
+        ]
+    },
+    {
+        "iteration": 6,
+        "accuracy": 68.14,
+        "sampled_examples_ids": [
+            50
+        ]
+    },
+    {
+        "iteration": 7,
+        "accuracy": 65.49,
+        "sampled_examples_ids": [
+            32,
+            41
+        ]
+    },
+    {
+        "iteration": 8,
+        "accuracy": 65.49,
+        "sampled_examples_ids": [
+            44,
+            5
+        ]
+    },
+    {
+        "iteration": 9,
+        "accuracy": 65.49,
+        "sampled_examples_ids": [
+            46,
+            48
+        ]
+    },
+    {
+        "iteration": 10,
+        "accuracy": 66.37,
+        "sampled_examples_ids": [
+            22,
+            13
+        ]
+    },
+    {
+        "iteration": 11,
+        "accuracy": 68.14,
+        "sampled_examples_ids": [
+            31,
+            44
+        ]
+    },
+    {
+        "iteration": 12,
+        "accuracy": 65.49,
+        "sampled_examples_ids": [
+            28,
+            32,
+            43
+        ]
+    },
+    {
+        "iteration": 13,
+        "accuracy": 65.49,
+        "sampled_examples_ids": [
+            7,
+            3,
+            28
+        ]
+    },
+    {
+        "iteration": 14,
+        "accuracy": 64.6,
+        "sampled_examples_ids": [
+            24
+        ]
+    },
+    {
+        "iteration": 15,
+        "accuracy": 69.03,
+        "sampled_examples_ids": [
+            43,
+            35,
+            40
+        ]
+    },
+    {
+        "iteration": 16,
+        "accuracy": 64.6,
+        "sampled_examples_ids": [
+            13,
+            28,
+            31
+        ]
+    },
+    {
+        "iteration": 17,
+        "accuracy": 64.6,
+        "sampled_examples_ids": [
+            17
+        ]
+    },
+    {
+        "iteration": 18,
+        "accuracy": 70.8,
+        "sampled_examples_ids": [
+            18
+        ]
+    },
+    {
+        "iteration": 19,
+        "accuracy": 68.14,
+        "sampled_examples_ids": [
+            8,
+            9,
+            32
+        ]
+    },
+    {
+        "iteration": 20,
+        "accuracy": 64.6,
+        "sampled_examples_ids": [
+            43,
+            12
+        ]
+    }
+]
